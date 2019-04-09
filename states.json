@@ -1,0 +1,25 @@
+{
+    "states":[
+        {
+            "name":"Alabama",
+            "abbraviation":"AL",
+            "area_codes": ["205","251","256"]
+        },
+        {
+            "name":"Alaska",
+            "abbraviation":"AK",
+            "area_codes": ["907"]
+        },
+        {
+            "name":"Arizona",
+            "abbraviation":"AZ",
+            "area_codes": ["205","251","256"]
+        }
+        ,
+        {
+            "name":"Arkansas",
+            "abbraviation":"AR",
+            "area_codes": ["205","251","256"]
+        }
+    ]
+}
