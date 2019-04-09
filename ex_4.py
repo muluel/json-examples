@@ -13,7 +13,7 @@ with open('json.json','r') as f:
                 #     print(ininitem,end=',',)
                 print(f'{item} has : ')
                 for ininitem in initem:
-                    print(ininitem,' value ',initem[ininitem])
+                    print(ininitem,'= value =',initem[ininitem])
                 # print(f'{initem[ininitem]}')
             else:
-                print(data[item][initem])
+                print('Value of',item,initem,':',data[item][initem])
