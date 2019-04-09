@@ -1,1 +1,1 @@
-json learning examples I writing myself.
+# Json examples with python.
